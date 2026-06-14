@@ -64,8 +64,19 @@ IT gives me the opportunity to combine problem-solving with creativity. Whether 
   <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=20&pause=1000&color=D8B7C3&width=435&lines=Networking+%26+Security+%F0%9F%94%90" alt="Networking & Security" />
 </a>
 
-![Wireshark](https://img.shields.io/badge/Wireshark-F8D7E6?style=for-the-badge&logo=wireshark&logoColor=black)
-![Network+](https://img.shields.io/badge/Network%2B-In_Progress-F8D7E6?style=for-the-badge)
+![CompTIA Network+ (In Progress)](https://img.shields.io/badge/CompTIA_Network%2B-In_Progress-B5838D?style=for-the-badge&logo=comptia&logoColor=white)
+
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-F8D7E6?style=for-the-badge&logoColor=black)
+
+![DNS](https://img.shields.io/badge/DNS-F8D7E6?style=for-the-badge&logoColor=black)
+
+![DHCP](https://img.shields.io/badge/DHCP-F8D7E6?style=for-the-badge&logoColor=black)
+
+![IPv4](https://img.shields.io/badge/IPv4-F8D7E6?style=for-the-badge&logoColor=black)
+
+![Network Troubleshooting](https://img.shields.io/badge/Network_Troubleshooting-F8D7E6?style=for-the-badge&logoColor=black)
+
+![Virtual Networking](https://img.shields.io/badge/Virtual_Networking-F8D7E6?style=for-the-badge&logoColor=black)
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=20&pause=1000&color=D8B7C3&width=435&lines=Tools+%F0%9F%9B%A0%EF%B8%8F" alt="Tools" />
