@@ -46,26 +46,26 @@ IT gives me the opportunity to combine problem-solving with creativity. Whether 
 
 <div align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=22&pause=1000&color=D8B7C3&width=435&lines=Technical+Skills+%F0%9F%92%BB" alt="Technical Skills" />
-  </a>
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=28&pause=1000&color=D8B7C3&width=435&lines=Technical+Skills+%F0%9F%92%BB" alt="Technical Skills" />
+</a>
 </div>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=22&pause=1000&color=D8B7C3&width=435&lines=Operating+Systems+%F0%9F%96%A5%EF%B8%8F" alt="Operating Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=20&pause=1000&color=D8B7C3&width=435&lines=Operating+Systems+%F0%9F%96%A5%EF%B8%8F" alt="Operating Systems" />
 </a>
 
 ![Windows](https://img.shields.io/badge/Windows_11-F8D7E6?style=for-the-badge&logo=windows&logoColor=black)
 ![Linux Mint](https://img.shields.io/badge/Linux_Mint-F8D7E6?style=for-the-badge&logo=linuxmint&logoColor=black)
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=22&pause=1000&color=D8B7C3&width=435&lines=Networking+%26+Security+%F0%9F%94%90" alt="Networking & Security" />
+  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=20&pause=1000&color=D8B7C3&width=435&lines=Networking+%26+Security+%F0%9F%94%90" alt="Networking & Security" />
 </a>
 
 ![Wireshark](https://img.shields.io/badge/Wireshark-F8D7E6?style=for-the-badge&logo=wireshark&logoColor=black)
 ![Network+](https://img.shields.io/badge/Network%2B-In_Progress-F8D7E6?style=for-the-badge)
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=22&pause=1000&color=D8B7C3&width=435&lines=Tools+%F0%9F%9B%A0%EF%B8%8F" alt="Tools" />
+  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=20&pause=1000&color=D8B7C3&width=435&lines=Tools+%F0%9F%9B%A0%EF%B8%8F" alt="Tools" />
 </a>
 
 ![GitHub](https://img.shields.io/badge/GitHub-F8D7E6?style=for-the-badge&logo=github&logoColor=black)
