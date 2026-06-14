@@ -1,12 +1,14 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Quicksand&size=24&pause=1000&color=D8B7C3&background=A78F7100&width=435&lines=%F0%9F%A9%B7+Kelli+Snowden+%F0%9F%A9%B7;Cybersecurity+Student;%F0%9F%8C%B8+Learning+%E2%80%A2+Building+%E2%80%A2+Growing+%F0%9F%8C%B8" />
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=26&duration=4000&pause=1000&color=D8B7C3&background=A78F7100&width=435&lines=%F0%9F%A9%B7+Kelli+Snowden+%F0%9F%A9%B7;Cybersecurity+Student+%F0%9F%91%A9%E2%80%8D%F0%9F%8E%93;%F0%9F%8C%B8+Learning+%E2%80%A2+Building+%E2%80%A2+Growing+%F0%9F%8C%B8" />
 
 </div>
 
 ---
 
-## 🌸 About Me 🌸
+<div align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=22&pause=1000&color=D8B7C3&width=435&lines=%F0%9F%8C%B7+About+Me+%F0%9F%8C%B7" />
+</div>
 
 Hello! 
 
@@ -14,10 +16,9 @@ I'm Kelli.
 
 After 10+ years working in healthcare, I am following my passion by pursing a career in IT and cybersecurity.
 
-I recently earned my Associate of Science in Information Technology and am currently studying for the CompTIA Network+ certification while continuing my education in Cybersecurity and Information Assurance. I'm passionate about expanding my technical knowledge through hands-on home lab projects that help me build real-world skills in networking, troubleshooting, and cybersecurity.
+I recently earned my Associate of Science in Information Technology and I am currently studying for the CompTIA Network+ certification while continuing my education in Cybersecurity and Information Assurance. I'm passionate about expanding my technical knowledge through hands-on home lab projects that help me build real-world skills in networking, troubleshooting, and cybersecurity.
 
 **What got me interested in IT??**
-
 
 IT gives me the opportunity to combine problem-solving with creativity. Whether I'm designing a home lab, building a GitHub portfolio, or finding new ways to organize and present information, I enjoy being able to express my creative side while continuously learning new technologies. IT is a field that challenges me to think critically, but also gives me the freedom to create, build, and innovate.
 
