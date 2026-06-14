@@ -32,6 +32,7 @@ IT gives me the opportunity to combine problem-solving with creativity. Whether 
 
   <img src="https://img.shields.io/github/stars/KelliSnowden?label=Stars&style=for-the-badge&color=D8B7C3" />
 </p>
+
 ---
 
 <div align="left">
