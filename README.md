@@ -18,13 +18,17 @@ After 10+ years working in healthcare, I am following my passion by pursing a ca
 
 I recently earned my Associate of Science in Information Technology and I am currently studying for the CompTIA Network+ certification while continuing my education in Cybersecurity and Information Assurance. I'm passionate about expanding my technical knowledge through hands-on home lab projects that help me build real-world skills in networking, troubleshooting, and cybersecurity.
 
-**What got me interested in IT??**
+**What got me interested in IT?**
 
 IT gives me the opportunity to combine problem-solving with creativity. Whether I'm designing a home lab, building a GitHub portfolio, or finding new ways to organize and present information, I enjoy being able to express my creative side while continuously learning new technologies. IT is a field that challenges me to think critically, but also gives me the freedom to create, build, and innovate.
 
 ---
 
-## 🩷 Currently Learning 🩷
+<div align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=22&pause=1000&color=D8B7C3&width=435&lines=Currently+Learning+%F0%9F%93%9A" alt="Currently Learning" />
+  </a>
+</div>
 
 🔐 Network Security
 
@@ -40,26 +44,38 @@ IT gives me the opportunity to combine problem-solving with creativity. Whether 
 
 ---
 
-## 💻 Technical Skills
+<div align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=22&pause=1000&color=D8B7C3&width=435&lines=Technical+Skills+%F0%9F%92%BB" alt="Technical Skills" />
+  </a>
+</div>
 
-### Operating Systems
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=22&pause=1000&color=D8B7C3&width=435&lines=Operating+Systems+%F0%9F%96%A5%EF%B8%8F" alt="Operating Systems" />
+</a>
 
 ![Windows](https://img.shields.io/badge/Windows_11-F8D7E6?style=for-the-badge&logo=windows&logoColor=black)
 ![Linux Mint](https://img.shields.io/badge/Linux_Mint-F8D7E6?style=for-the-badge&logo=linuxmint&logoColor=black)
 
-### Networking & Security
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=22&pause=1000&color=D8B7C3&width=435&lines=Networking+%26+Security+%F0%9F%94%90" alt="Networking & Security" />
+</a>
 
 ![Wireshark](https://img.shields.io/badge/Wireshark-F8D7E6?style=for-the-badge&logo=wireshark&logoColor=black)
 ![Network+](https://img.shields.io/badge/Network%2B-In_Progress-F8D7E6?style=for-the-badge)
 
-### Tools
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=22&pause=1000&color=D8B7C3&width=435&lines=Tools+%F0%9F%9B%A0%EF%B8%8F" alt="Tools" />
+</a>
 
 ![GitHub](https://img.shields.io/badge/GitHub-F8D7E6?style=for-the-badge&logo=github&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-F8D7E6?style=for-the-badge&logo=python&logoColor=black)
 
 ---
 
-## 🔬 Featured Labs
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=22&pause=1000&color=D8B7C3&width=435&lines=Featured+Labs+%F0%9F%92%BE" alt="Featured Labs" />
+</a>
 
 ### 🎫 Help Desk Ticketing System Lab
 Built and managed support tickets using osTicket.
@@ -75,7 +91,9 @@ Practiced troubleshooting using ping, tracert, ipconfig, and DNS tools.
 
 ---
 
-## 🎯 2026 Goals
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=22&pause=1000&color=D8B7C3&width=435&lines=2026+Goals+%E2%9C%94%EF%B8%8F" alt="2026 Goals" />
+</a>
 
 - ✅ Earn Associate Degree in Information Technology
 - 🚧 Pass CompTIA Network+
@@ -86,31 +104,9 @@ Practiced troubleshooting using ping, tracert, ipconfig, and DNS tools.
 
 ---
 
-## 🖥️ Terminal
-
-```bash
-$ whoami
-
-Name: Kelli Snowden
-
-Role:
-Cybersecurity Student
-
-Current Mission:
-Pass Network+
-
-Building:
-Windows Labs
-Wireshark Labs
-Help Desk Labs
-
-Next Target:
-Security+
-```
-
----
-
-## 📊 GitHub Stats
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=24&pause=1000&color=D8B7C3&width=435&lines=GitHub+Status+%F0%9F%92%8C" alt="GitHub Status" />
+</a>
 
 ![Kelli's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KelliSnowden&show_icons=true)
 
