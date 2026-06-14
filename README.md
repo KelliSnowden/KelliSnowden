@@ -106,16 +106,16 @@ IT gives me the opportunity to combine problem-solving with creativity. Whether 
   <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=20&pause=1000&color=D8B7C3&width=435&lines=Featured+Labs+%F0%9F%92%BE" alt="Featured Labs" />
 </a>
 
-### 🎫 [Help Desk Ticketing System Lab](./Help-Desk-Ticketing-System-Lab)
+### 🎫 [Help Desk Ticketing System Lab](https://github.com/KelliSnowden/IT-Home-Lab/tree/main/Help-Desk-Ticketing-System-Lab)
 *Built and managed support tickets using osTicket.*
 
-### 📡 [Wireshark Packet Analysis Lab](./Wireshark-Packet-Analysis-Lab)
+### 📡 [Wireshark Packet Analysis Lab](https://github.com/KelliSnowden/IT-Home-Lab/tree/main/Wireshark-Packet-Analysis-Lab)
 *Captured and analyzed network traffic to better understand protocols and packet flow.*
 
-### 💻 [Windows 11 Virtual Machine Lab](./Windows-11-VM-Lab)
+### 💻 [Windows 11 Virtual Machine Lab](https://github.com/KelliSnowden/IT-Home-Lab/tree/main/Windows-11-VM-Lab)
 *Configured and documented a Windows 11 VM environment.*
 
-### 🌐 [Network Troubleshooting Lab](./Network-Troubleshooting-Lab)
+### 🌐 [Network Troubleshooting Lab](https://github.com/KelliSnowden/IT-Home-Lab/tree/main/Network-Troubleshooting-Lab)
 *Practiced troubleshooting using ping, tracert, ipconfig, and DNS tools.*
 
 ---
