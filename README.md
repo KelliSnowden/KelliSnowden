@@ -125,8 +125,8 @@ IT gives me the opportunity to combine problem-solving with creativity. Whether 
 
 - ✅ ~~Earn Associate Degree in Information Technology~~
 - 🚧 ***Pass CompTIA Network+***
-- 🔜 ***Build Active Directory Lab***
-- 🔜 ***Begin Cybersecurity Bachelor's Degree***
+- 🚧 ***Begin Cybersecurity Bachelor's Degree***
+- 🔜 *Build Active Directory Lab*
 - 🔜 *Land my first IT role*
 - 🔜 *Earn CompTIA Security+*
 
