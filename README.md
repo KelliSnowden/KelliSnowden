@@ -25,6 +25,13 @@ I recently earned my Associate of Science in Information Technology and am curre
 
 IT gives me the opportunity to combine problem-solving with creativity. Whether I'm designing a home lab, building a GitHub portfolio, or finding new ways to organize and present information, I enjoy being able to express my creative side while continuously learning new technologies. IT is a field that challenges me to think critically, but also gives me the freedom to create, build, and innovate.
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KelliSnowden&label=Profile%20Views&color=D8B7C3&style=for-the-badge" />
+
+  <img src="https://img.shields.io/github/followers/KelliSnowden?label=Followers&style=for-the-badge&color=D8B7C3" />
+
+  <img src="https://img.shields.io/github/stars/KelliSnowden?label=Stars&style=for-the-badge&color=D8B7C3" />
+</p>
 ---
 
 <div align="left">
