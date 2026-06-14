@@ -17,6 +17,8 @@ After 10+ years working in healthcare, I am following my passion by pursing a ca
 I recently earned my Associate of Science in Information Technology and am currently studying for the CompTIA Network+ certification while continuing my education in Cybersecurity and Information Assurance. I'm passionate about expanding my technical knowledge through hands-on home lab projects that help me build real-world skills in networking, troubleshooting, and cybersecurity.
 
 **What got me interested in IT??**
+
+
 IT gives me the opportunity to combine problem-solving with creativity. Whether I'm designing a home lab, building a GitHub portfolio, or finding new ways to organize and present information, I enjoy being able to express my creative side while continuously learning new technologies. IT is a field that challenges me to think critically, but also gives me the freedom to create, build, and innovate.
 
 ---
