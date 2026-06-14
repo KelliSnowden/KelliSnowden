@@ -78,12 +78,26 @@ IT gives me the opportunity to combine problem-solving with creativity. Whether 
 
 ![Virtual Networking](https://img.shields.io/badge/Virtual_Networking-F8D7E6?style=for-the-badge&logoColor=black)
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=20&pause=1000&color=D8B7C3&width=435&lines=Tools+%F0%9F%9B%A0%EF%B8%8F" alt="Tools" />
-</a>
+<div align="left">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=22&pause=1000&color=D8B7C3&width=435&lines=Technologies+%F0%9F%9B%A0%EF%B8%8F"
+      alt="Technologies"
+    />
+  </a>
+</div>
 
 ![GitHub](https://img.shields.io/badge/GitHub-F8D7E6?style=for-the-badge&logo=github&logoColor=black)
+
 ![Python](https://img.shields.io/badge/Python-F8D7E6?style=for-the-badge&logo=python&logoColor=black)
+
+![Wireshark](https://img.shields.io/badge/Wireshark-F8D7E6?style=for-the-badge&logo=wireshark&logoColor=black)
+
+![osTicket](https://img.shields.io/badge/osTicket-F8D7E6?style=for-the-badge&logoColor=black)
+
+![Packet Tracer](https://img.shields.io/badge/Packet_Tracer-F8D7E6?style=for-the-badge&logoColor=black)
+
+![KVM](https://img.shields.io/badge/KVM/QEMU-F8D7E6?style=for-the-badge&logoColor=black)
 
 ---
 
