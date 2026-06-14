@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=500&size=30&duration=3500&pause=1000&color=D8B7C3&background=A78F7100&width=500&lines=%F0%9F%A9%B7+Kelli+Snowden+%F0%9F%A9%B7" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&size=30&duration=3500&pause=1000&color=D8B7C3&background=A78F7100&width=500&lines=%F0%9F%A9%B7+Kelli+Snowden+%F0%9F%A9%B7" alt="Typing SVG" />
   </a>
 </div>
 
@@ -8,7 +8,7 @@
 
 <div align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=20&pause=1000&color=D8B7C3&width=435&lines=%F0%9F%8C%B8+About+Me+%F0%9F%8C%B8" alt="About Me" />
+    <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=24&pause=1000&color=D8B7C3&width=435&lines=%F0%9F%8C%B8+About+Me+%F0%9F%8C%B8" alt="About Me" />
   </a>
 </div>
 
@@ -29,7 +29,7 @@ IT gives me the opportunity to combine problem-solving with creativity. Whether 
 
 <div align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=20&pause=1000&color=D8B7C3&width=435&lines=Currently+Learning+%F0%9F%93%9A" alt="Currently Learning" />
+    <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=24&pause=1000&color=D8B7C3&width=435&lines=Currently+Learning+%F0%9F%93%9A" alt="Currently Learning" />
   </a>
 </div>
 
@@ -49,7 +49,7 @@ IT gives me the opportunity to combine problem-solving with creativity. Whether 
 
 <div align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=22&pause=1000&color=D8B7C3&width=435&lines=Technical+Skills+%F0%9F%92%AA%F0%9F%8F%BC" alt="Technical Skills" />
+    <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=24&pause=1000&color=D8B7C3&width=435&lines=Technical+Skills+%F0%9F%92%AA%F0%9F%8F%BC" alt="Technical Skills" />
   </a>
 </div>
 
