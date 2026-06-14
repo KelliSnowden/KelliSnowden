@@ -2,9 +2,9 @@
 
 # 🌸 Kelli Snowden
 
-### Cybersecurity Student • IT Professional • Home Lab Builder
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=D8B7C3&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+🌸;Cybersecurity+Student+🔐;CompTIA+Network%2B+Candidate+📚;Building+Hands-On+IT+Labs+💻;Future+Security+Analyst+🌐" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=26&pause=1000&color=D8B7C3&center=true&vCenter=true&width=700&lines=KELLI+SNOWDEN;Cybersecurity+Student;%F0%9F%8C%B8+Learning+%E2%80%A2+Building+%E2%80%A2+Growing+%F0%9F%8C%B8" />
+</p>
 
 </div>
 
