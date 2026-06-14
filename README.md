@@ -17,9 +17,9 @@
 I'm Kelli - it's nice to meet you! 😊
 
 I am following my passion for technology and pursuing a career in IT and cybersecurity.
-I have 10 years experience working in the healthcare industry.
+I bring over 10 years of experience in the healthcare industry, where I've developed strong problem-solving, communication, documentation, and teamwork skills that support my transition into IT.
 
-I recently earned my Associate of Science in Information Technology and am currently pursuing my Bachelor's degree in Cybersecurity and Information Assurance. I am also preparing for the CompTIA Network+ certification while continuing to expand my technical knowledge through hands-on home lab projects.
+I recently earned my Associate of Science in Information Technology and am currently pursuing a Bachelor's degree in Cybersecurity and Information Assurance. Alongside my studies, I am preparing for the CompTIA Network+ certification and building hands-on experience through home lab projects and technical documentation.
 
 ***What got me interested in IT***❔
 
@@ -54,7 +54,7 @@ IT gives me the opportunity to combine problem-solving with creativity. Whether 
 </div>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=18&pause=1000&color=D8B7C3&width=435&lines=Operating+Systems+%F0%9F%96%A5%EF%B8%8F" alt="Operating Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=16&pause=1000&color=D8B7C3&width=435&lines=Operating+Systems+%F0%9F%96%A5%EF%B8%8F" alt="Operating Systems" />
 </a>
 
 ![Windows](https://img.shields.io/badge/Windows_10/11-F8D7E6?style=for-the-badge&logo=windows&logoColor=black)
@@ -62,7 +62,7 @@ IT gives me the opportunity to combine problem-solving with creativity. Whether 
 ![Linux Mint](https://img.shields.io/badge/Linux_Mint-F8D7E6?style=for-the-badge&logo=linuxmint&logoColor=black)
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=18&pause=1000&color=D8B7C3&width=435&lines=Networking+%26+Security+%F0%9F%94%90" alt="Networking & Security" />
+  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=16&pause=1000&color=D8B7C3&width=435&lines=Networking+%26+Security+%F0%9F%94%90" alt="Networking & Security" />
 </a>
 
 ![CompTIA Network+ (In Progress)](https://img.shields.io/badge/CompTIA_Network%2B-In_Progress-B5838D?style=for-the-badge&logo=comptia&logoColor=white)
@@ -82,7 +82,7 @@ IT gives me the opportunity to combine problem-solving with creativity. Whether 
 <div align="left">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=18&pause=1000&color=D8B7C3&width=435&lines=Technologies+%F0%9F%9B%A0%EF%B8%8F"
+      src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=16&pause=1000&color=D8B7C3&width=435&lines=Technologies+%F0%9F%9B%A0%EF%B8%8F"
       alt="Technologies"
     />
   </a>
@@ -106,16 +106,16 @@ IT gives me the opportunity to combine problem-solving with creativity. Whether 
   <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=20&pause=1000&color=D8B7C3&width=435&lines=Featured+Labs+%F0%9F%92%BE" alt="Featured Labs" />
 </a>
 
-### 🎫 Help Desk Ticketing System Lab
+### 🎫 [Help Desk Ticketing System Lab](./Help-Desk-Ticketing-System-Lab)
 *Built and managed support tickets using osTicket.*
 
-### 📡 Wireshark Packet Analysis Lab
+### 📡 [Wireshark Packet Analysis Lab](./Wireshark-Packet-Analysis-Lab)
 *Captured and analyzed network traffic to better understand protocols and packet flow.*
 
-### 💻 Windows 11 Virtual Machine Lab
+### 💻 [Windows 11 Virtual Machine Lab](./Windows-11-VM-Lab)
 *Configured and documented a Windows 11 VM environment.*
 
-### 🌐 Network Troubleshooting Lab
+### 🌐 [Network Troubleshooting Lab](./Network-Troubleshooting-Lab)
 *Practiced troubleshooting using ping, tracert, ipconfig, and DNS tools.*
 
 ---
