@@ -103,7 +103,7 @@ IT gives me the opportunity to combine problem-solving with creativity. Whether 
 ---
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=22&pause=1000&color=D8B7C3&width=435&lines=Featured+Labs+%F0%9F%92%BE" alt="Featured Labs" />
+  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=22&pause=1000&color=D8B7C3&width=435&lines=Featured+Labs+%F0%9F%92%BE" alt="Featured Labs" />
 </a>
 
 ### 🎫 [Help Desk Ticketing System Lab](https://github.com/KelliSnowden/IT-Home-Lab/tree/main/Help-Desk-Ticketing-System-Lab)
