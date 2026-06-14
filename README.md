@@ -7,7 +7,9 @@
 ---
 
 <div align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=22&pause=1000&color=D8B7C3&width=435&lines=%F0%9F%8C%B7+About+Me+%F0%9F%8C%B7" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=22&pause=1000&color=D8B7C3&width=435&lines=%F0%9F%8C%B8+About+Me+%F0%9F%8C%B8" alt="About Me" />
+  </a>
 </div>
 
 Hello! 
@@ -18,7 +20,7 @@ After 10+ years working in healthcare, I am following my passion by pursing a ca
 
 I recently earned my Associate of Science in Information Technology and I am currently studying for the CompTIA Network+ certification while continuing my education in Cybersecurity and Information Assurance. I'm passionate about expanding my technical knowledge through hands-on home lab projects that help me build real-world skills in networking, troubleshooting, and cybersecurity.
 
-**What got me interested in IT?**
+***What got me interested in IT?***
 
 IT gives me the opportunity to combine problem-solving with creativity. Whether I'm designing a home lab, building a GitHub portfolio, or finding new ways to organize and present information, I enjoy being able to express my creative side while continuously learning new technologies. IT is a field that challenges me to think critically, but also gives me the freedom to create, build, and innovate.
 
@@ -30,17 +32,17 @@ IT gives me the opportunity to combine problem-solving with creativity. Whether 
   </a>
 </div>
 
-🔐 Network Security
+🔐 *Network Security*
 
-🌐 TCP/IP Networking
+🌐 *TCP/IP Networking*
 
-📡 Packet Analysis with Wireshark
+📡 *Packet Analysis with Wireshark*
 
-🖥️ Windows Administration
+🖥️ *Windows Administration*
 
-🐧 Linux Fundamentals
+🐧 *Linux Fundamentals*
 
-🎫 IT Support & Ticketing Systems
+🎫 *IT Support & Ticketing Systems*
 
 ---
 
@@ -96,12 +98,12 @@ IT gives me the opportunity to combine problem-solving with creativity. Whether 
   <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=22&pause=1000&color=D8B7C3&width=435&lines=2026+Goals+%E2%9C%94%EF%B8%8F" alt="2026 Goals" />
 </a>
 
-- ✅ Earn Associate Degree in Information Technology
-- 🚧 Pass CompTIA Network+
-- 🔜 Earn CompTIA Security+
-- 🔜 Build Active Directory Lab
-- 🔜 Begin Cybersecurity Bachelor's Degree
-- 🔜 Land my first IT role
+- ✅ ~~Earn Associate Degree in Information Technology~~
+- 🚧 ***Pass CompTIA Network+***
+- 🔜 ***Build Active Directory Lab***
+- 🔜 ***Begin Cybersecurity Bachelor's Degree***
+- 🔜 *Land my first IT role*
+- 🔜 *Earn CompTIA Security+*
 
 ---
 
@@ -116,7 +118,7 @@ IT gives me the opportunity to combine problem-solving with creativity. Whether 
 ---
 
 <div align="center">
-
-🌸 Building my future one lab at a time 🌸
-
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=26&pause=1000&color=D8B7C3&width=435&lines=%F0%9F%8C%B8+Learning+%E2%80%A2+Building+%E2%80%A2+Growing+%F0%9F%8C%B8" alt="Learning • Building • Growing" />
+  </a>
 </div>
