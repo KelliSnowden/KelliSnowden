@@ -46,8 +46,8 @@ IT gives me the opportunity to combine problem-solving with creativity. Whether 
 
 <div align="left">
   <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=28&pause=1000&color=D8B7C3&width=435&lines=Technical+Skills+%F0%9F%92%BB" alt="Technical Skills" />
-</a>
+    <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=26&pause=1000&color=D8B7C3&width=435&lines=Technical+Skills+%F0%9F%92%AA%F0%9F%8F%BC" alt="Technical Skills" />
+  </a>
 </div>
 
 <a href="https://git.io/typing-svg">
@@ -55,6 +55,7 @@ IT gives me the opportunity to combine problem-solving with creativity. Whether 
 </a>
 
 ![Windows](https://img.shields.io/badge/Windows_11-F8D7E6?style=for-the-badge&logo=windows&logoColor=black)
+![macOS](https://img.shields.io/badge/macOS-F8D7E6?style=for-the-badge&logo=apple&logoColor=black)
 ![Linux Mint](https://img.shields.io/badge/Linux_Mint-F8D7E6?style=for-the-badge&logo=linuxmint&logoColor=black)
 
 <a href="https://git.io/typing-svg">
@@ -78,16 +79,16 @@ IT gives me the opportunity to combine problem-solving with creativity. Whether 
 </a>
 
 ### 🎫 Help Desk Ticketing System Lab
-Built and managed support tickets using osTicket.
+*Built and managed support tickets using osTicket.*
 
 ### 📡 Wireshark Packet Analysis Lab
-Captured and analyzed network traffic to better understand protocols and packet flow.
+*Captured and analyzed network traffic to better understand protocols and packet flow.*
 
 ### 💻 Windows 11 Virtual Machine Lab
-Configured and documented a Windows 11 VM environment.
+*Configured and documented a Windows 11 VM environment.*
 
 ### 🌐 Network Troubleshooting Lab
-Practiced troubleshooting using ping, tracert, ipconfig, and DNS tools.
+*Practiced troubleshooting using ping, tracert, ipconfig, and DNS tools.*
 
 ---
 
