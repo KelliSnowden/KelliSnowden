@@ -8,7 +8,7 @@
 
 <div align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=22&pause=1000&color=D8B7C3&width=435&lines=%F0%9F%8C%B8+About+Me+%F0%9F%8C%B8" alt="About Me" />
+    <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=20&pause=1000&color=D8B7C3&width=435&lines=%F0%9F%8C%B8+About+Me+%F0%9F%8C%B8" alt="About Me" />
   </a>
 </div>
 
@@ -29,7 +29,7 @@ IT gives me the opportunity to combine problem-solving with creativity. Whether 
 
 <div align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=24&pause=1000&color=D8B7C3&width=435&lines=Currently+Learning+%F0%9F%93%9A" alt="Currently Learning" />
+    <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=20&pause=1000&color=D8B7C3&width=435&lines=Currently+Learning+%F0%9F%93%9A" alt="Currently Learning" />
   </a>
 </div>
 
@@ -49,7 +49,7 @@ IT gives me the opportunity to combine problem-solving with creativity. Whether 
 
 <div align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=24&pause=1000&color=D8B7C3&width=435&lines=Technical+Skills+%F0%9F%92%AA%F0%9F%8F%BC" alt="Technical Skills" />
+    <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=22&pause=1000&color=D8B7C3&width=435&lines=Technical+Skills+%F0%9F%92%AA%F0%9F%8F%BC" alt="Technical Skills" />
   </a>
 </div>
 
@@ -103,7 +103,7 @@ IT gives me the opportunity to combine problem-solving with creativity. Whether 
 ---
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=24&pause=1000&color=D8B7C3&width=435&lines=Featured+Labs+%F0%9F%92%BE" alt="Featured Labs" />
+  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=22&pause=1000&color=D8B7C3&width=435&lines=Featured+Labs+%F0%9F%92%BE" alt="Featured Labs" />
 </a>
 
 ### 🎫 [Help Desk Ticketing System Lab](https://github.com/KelliSnowden/IT-Home-Lab/tree/main/Help-Desk-Ticketing-System-Lab)
@@ -121,7 +121,7 @@ IT gives me the opportunity to combine problem-solving with creativity. Whether 
 ---
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=24&pause=1000&color=D8B7C3&width=435&lines=2026+Goals+%E2%9C%94%EF%B8%8F" alt="2026 Goals" />
+  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=22&pause=1000&color=D8B7C3&width=435&lines=2026+Goals+%E2%9C%94%EF%B8%8F" alt="2026 Goals" />
 </a>
 
 - ✅ ~~Earn Associate Degree in Information Technology~~
@@ -134,7 +134,7 @@ IT gives me the opportunity to combine problem-solving with creativity. Whether 
 ---
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=24&pause=1000&color=D8B7C3&width=435&lines=GitHub+Status+%F0%9F%92%8C" alt="GitHub Status" />
+  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=22&pause=1000&color=D8B7C3&width=435&lines=GitHub+Status+%F0%9F%92%8C" alt="GitHub Status" />
 </a>
 
 ![Kelli's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KelliSnowden&show_icons=true)
