@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=30&duration=3500&pause=1000&color=D8B7C3&background=A78F7100&width=435&lines=%F0%9F%A9%B7+Kelli+Snowden+%F0%9F%A9%B7" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=32&duration=3500&pause=1000&color=D8B7C3&background=A78F7100&width=435&lines=%F0%9F%A9%B7+Kelli+Snowden+%F0%9F%A9%B7" alt="Typing SVG" />
   </a>
 </div>
 
@@ -56,7 +56,7 @@ IT gives me the opportunity to combine problem-solving with creativity. Whether 
   <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=18&pause=1000&color=D8B7C3&width=435&lines=Operating+Systems+%F0%9F%96%A5%EF%B8%8F" alt="Operating Systems" />
 </a>
 
-![Windows](https://img.shields.io/badge/Windows_11-F8D7E6?style=for-the-badge&logo=windows&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows_10/11-F8D7E6?style=for-the-badge&logo=windows&logoColor=black)
 ![macOS](https://img.shields.io/badge/macOS-F8D7E6?style=for-the-badge&logo=apple&logoColor=black)
 ![Linux Mint](https://img.shields.io/badge/Linux_Mint-F8D7E6?style=for-the-badge&logo=linuxmint&logoColor=black)
 
