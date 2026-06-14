@@ -16,7 +16,7 @@
 
 I'm Kelli - it's nice to meet you! 😊
 
-I am to following my passion for technology and pursuing a career in IT and cybersecurity, after spending more than 10 years in the healthcare industry.
+I am following my passion for technology and pursuing a career in IT and cybersecurity, after spending more than 10 years in the healthcare industry.
 
 I recently earned my Associate of Science in Information Technology and am currently pursuing my Bachelor's degree in Cybersecurity and Information Assurance. I am also preparing for the CompTIA Network+ certification while continuing to expand my technical knowledge through hands-on home lab projects.
 
