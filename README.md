@@ -54,7 +54,7 @@ IT gives me the opportunity to combine problem-solving with creativity. Whether 
 </div>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=400&size=16&pause=1000&color=D8B7C3&width=435&lines=Operating+Systems+%F0%9F%96%A5%EF%B8%8F" alt="Operating Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=14&pause=1000&color=D8B7C3&width=435&lines=Operating+Systems+%F0%9F%96%A5%EF%B8%8F" alt="Operating Systems" />
 </a>
 
 ![Windows](https://img.shields.io/badge/Windows_10/11-F8D7E6?style=for-the-badge&logo=windows&logoColor=black)
@@ -62,7 +62,7 @@ IT gives me the opportunity to combine problem-solving with creativity. Whether 
 ![Linux Mint](https://img.shields.io/badge/Linux_Mint-F8D7E6?style=for-the-badge&logo=linuxmint&logoColor=black)
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=400&size=16&pause=1000&color=D8B7C3&width=435&lines=Networking+%26+Security+%F0%9F%94%90" alt="Networking & Security" />
+  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=14&pause=1000&color=D8B7C3&width=435&lines=Networking+%26+Security+%F0%9F%94%90" alt="Networking & Security" />
 </a>
 
 ![CompTIA Network+ (In Progress)](https://img.shields.io/badge/CompTIA_Network%2B-In_Progress-B5838D?style=for-the-badge&logo=comptia&logoColor=white)
@@ -82,7 +82,7 @@ IT gives me the opportunity to combine problem-solving with creativity. Whether 
 <div align="left">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=400&size=16&pause=1000&color=D8B7C3&width=435&lines=Technologies+%F0%9F%9B%A0%EF%B8%8F"
+      src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=14&pause=1000&color=D8B7C3&width=435&lines=Technologies+%F0%9F%9B%A0%EF%B8%8F"
       alt="Technologies"
     />
   </a>
