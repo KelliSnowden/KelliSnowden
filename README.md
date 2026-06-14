@@ -1,28 +1,27 @@
 <div align="center">
 
-# 🌸 Kelli Snowden
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=26&pause=1000&color=D8B7C3&center=true&vCenter=true&width=700&lines=KELLI+SNOWDEN;Cybersecurity+Student;%F0%9F%8C%B8+Learning+%E2%80%A2+Building+%E2%80%A2+Growing+%F0%9F%8C%B8" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&size=24&pause=1000&color=D8B7C3&background=A78F7100&width=435&lines=%F0%9F%A9%B7+Kelli+Snowden+%F0%9F%A9%B7;Cybersecurity+Student;%F0%9F%8C%B8+Learning+%E2%80%A2+Building+%E2%80%A2+Growing+%F0%9F%8C%B8" />
 
 </div>
 
 ---
 
-## 🌸 About Me
+## 🌸 About Me 🌸
 
-Hi! I'm Kelli.
+Hello! 
 
-After spending years working in healthcare, I discovered a passion for technology and decided to pursue a career in IT and cybersecurity.
+I'm Kelli.
 
-I recently earned my Associate of Science in Information Technology and am currently preparing for the CompTIA Network+ certification while building practical skills through hands-on home lab projects.
+After 10+ years working in healthcare, I am following my passion by pursing a career in IT and cybersecurity.
 
-I believe the best way to learn technology is by building, troubleshooting, and documenting real-world environments.
+I recently earned my Associate of Science in Information Technology and am currently studying for the CompTIA Network+ certification while continuing my education in Cybersecurity and Information Assurance. I'm passionate about expanding my technical knowledge through hands-on home lab projects that help me build real-world skills in networking, troubleshooting, and cybersecurity.
+
+**What got me interested in IT??**
+IT gives me the opportunity to combine problem-solving with creativity. Whether I'm designing a home lab, building a GitHub portfolio, or finding new ways to organize and present information, I enjoy being able to express my creative side while continuously learning new technologies. IT is a field that challenges me to think critically, but also gives me the freedom to create, build, and innovate.
 
 ---
 
-## 🩷 Currently Learning
+## 🩷 Currently Learning 🩷
 
 🔐 Network Security
 
