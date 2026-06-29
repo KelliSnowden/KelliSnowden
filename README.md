@@ -39,7 +39,7 @@ IT gives me the opportunity to combine problem-solving with creativity. Whether 
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/kelli-snowden">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -49,13 +49,13 @@ IT gives me the opportunity to combine problem-solving with creativity. Whether 
 
 </p>
 
+---
+
 <div align="left">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=20&pause=1000&color=D8B7C3&width=435&lines=Currently+Learning+%F0%9F%93%9A" alt="Currently Learning" />
   </a>
 </div>
-
----
 
 🔐 *Network Security*
 
