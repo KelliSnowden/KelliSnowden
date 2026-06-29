@@ -35,11 +35,27 @@ IT gives me the opportunity to combine problem-solving with creativity. Whether 
 
 ---
 
+## 🌸 Connect With Me
+
+<p align="center">
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.youtube.com/@TechWithKelli">
+<img src="https://img.shields.io/badge/YouTube-TechWithKelli-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+</p>
+
 <div align="left">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=20&pause=1000&color=D8B7C3&width=435&lines=Currently+Learning+%F0%9F%93%9A" alt="Currently Learning" />
   </a>
 </div>
+
+---
 
 🔐 *Network Security*
 
