@@ -157,16 +157,6 @@ IT gives me the opportunity to combine problem-solving with creativity. Whether 
 
 ---
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=22&pause=1000&color=D8B7C3&width=435&lines=GitHub+Status+%F0%9F%92%8C" alt="GitHub Status" />
-</a>
-
-![Kelli's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KelliSnowden&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KelliSnowden&layout=compact)
-
----
-
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=26&pause=1000&color=D8B7C3&width=435&lines=%F0%9F%8C%B8+Learning+%E2%80%A2+Building+%E2%80%A2+Growing+%F0%9F%8C%B8" alt="Learning • Building • Growing" />
