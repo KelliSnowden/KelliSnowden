@@ -122,7 +122,7 @@ IT gives me the opportunity to combine problem-solving with creativity. Whether 
 
 ![Packet Tracer](https://img.shields.io/badge/Packet_Tracer-F8D7E6?style=for-the-badge&logoColor=black)
 
-![KVM](https://img.shields.io/badge/KVM/QEMU-F8D7E6?style=for-the-badge&logoColor=black)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 
 ---
 
