@@ -149,11 +149,21 @@ IT gives me the opportunity to combine problem-solving with creativity. Whether 
 </a>
 
 - ✅ ~~Earn Associate Degree in Information Technology~~
-- 🚧 ***Pass CompTIA Network+***
-- 🚧 ***Begin Cybersecurity Bachelor's Degree***
-- 🔜 *Build Active Directory Lab*
-- 🔜 *Land my first IT role*
-- 🔜 *Earn CompTIA Security+*
+- ✅ ~~Begin Cybersecurity Bachelor's Degree~~
+- 🚧 ***Pass CompTIA A+, Network+ & Security+***
+- 🚧 ***Land my first IT role***
+- ✅ ~~Build Windows 11 Virtual Machine Lab~~
+- ✅ ~~Build osTicket Help Desk Lab~~
+- ⏳ *Build Active Directory Lab*
+- ⏳ *Build Windows Server / Domain Controller Lab*
+- ⏳ *Build DNS & DHCP Lab*
+- ⏳ *Build Group Policy (GPO) Lab*
+- ⏳ *Build Network Troubleshooting Lab*
+- ⏳ *Build Wireshark Packet Analysis Lab*
+- ⏳ *Build PowerShell Automation Lab*
+- ⏳ *Build Vulnerability Scanning Lab*
+- ⏳ *Build SIEM / Security Monitoring Lab*
+- ⏳ *Build SOC Incident Investigation Lab*
 
 ---
 
