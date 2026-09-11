@@ -61,9 +61,11 @@ IT gives me the opportunity to combine problem-solving with creativity. Whether 
 
 🌐 *TCP/IP Networking*
 
-📡 *Packet Analysis with Wireshark*
+🔬 *Packet Analysis with Wireshark*
 
 🖥️ *Windows Administration*
+
+🏢 *Active Directory (AD) Fundamentals*
 
 🐧 *Linux Fundamentals*
 
