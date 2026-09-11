@@ -126,6 +126,10 @@ IT gives me the opportunity to combine problem-solving with creativity. Whether 
 
 ![VirtualBox](https://img.shields.io/badge/VIRTUALBOX-F8D7E6?style=for-the-badge&logo=virtualbox&logoColor=black)
 
+![Windows Server 2025](https://img.shields.io/badge/Windows_Server_2025-F8D7E6?style=for-the-badge&logo=windows&logoColor=black)
+
+![Active Directory](https://img.shields.io/badge/Active_Directory-F8D7E6?style=for-the-badge&logo=windows&logoColor=black)
+
 ---
 
 <a href="https://git.io/typing-svg">
